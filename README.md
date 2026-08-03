@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;AI+%26+ML+Enthusiast;Game+Dev+Explorer;Always+learning+something+new&center=true&vCenter=true&width=540&height=45&pause=1200&color=0e75b6&size=18" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Currently+learning+AI%2FML;Building+backend+projects;Focused+on+maintainable+systems&center=true&vCenter=true&width=600&height=45&pause=1400&color=0e75b6&size=18" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,55 +29,20 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineering student who enjoys understanding how things work under the hood — not just getting them to run.
+I am a Software Engineering student focused on building robust, maintainable, and practical software systems.
 
-- 🤖 Exploring **Artificial Intelligence** and how it applies to real-world problems
-- 🎮 Games are both a hobby and a source of ideas for systems, algorithms, and interaction design
-- 🔍 Interested in **Reinforcement Learning**, backend development, and low-level system behavior
-- 📐 I prefer long-term, reliable solutions over quick hacks
-- 🌱 Currently learning: **AI/ML**, backend & frontend technologies, and English
+My current areas of interest include:
+- Artificial Intelligence and Machine Learning, with a particular focus on Reinforcement Learning
+- Backend development and API design
+- System-level thinking, performance, and software reliability
 
-> *For me, software engineering is a long-term journey of curiosity and experimentation.*
+I am currently improving my skills in AI/ML, modern backend technologies, and technical English.
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rftsngl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎯 Interests
-
-| Area | Details |
-|------|---------|
-| 🤖 AI / ML | Reinforcement Learning, Multi-Agent Systems, Neural Networks |
-| 🎮 Game Dev | Game mechanics, modding, reverse engineering |
-| 🔧 Backend | REST APIs, Spring Boot, Node.js, system design |
-| 🎵 Music | Listening, discovering new genres |
-| ✈️ Travel | Exploring new places |
+I value clarity, consistency, and long-term maintainability over short-term, fragile solutions.
 
 ---
 
 ### 📫 Contact
 
 - 💼 LinkedIn: [linkedin.com/in/rftsngl](https://www.linkedin.com/in/rftsngl)
-- 📸 Instagram: [@rftsngl](https://www.instagram.com/rftsngl)
+- 📸 Instagram: [rftsngl](https://www.instagram.com/rftsngl)
